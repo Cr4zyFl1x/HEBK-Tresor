@@ -16,7 +16,7 @@ public class Main {
          */
 
         Masterkey.changeMasterkey("RST-UVW-XYZ" , "ZYX-WVU-TSR");
-        // System.out.println(Masterkey.masterkey);
+        // System.out.println(Masterkey.masterkey); // Print Masterkey
 
         /*	Main.java:19: error: masterkey has protected access in Masterkey
          *      System.out.println(Masterkey.masterkey);
